@@ -1,0 +1,11 @@
+IExploring Liaison Plan
+Team members will be in charge of contacting with the other team.
+The liaison's task:
+1. Attending their team meeting
+2. Report their thoughts and changes, requirement and problem to the other member in the team
+3. Inform our team's requirement to the others
+
+The Divisions:
+Fei Fei: U&I, Q&A
+Chu Yi: SNS, User management
+Xu Tianyang: Wiki, Project management, Media
